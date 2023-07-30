@@ -1,0 +1,5 @@
+https://dotnet.microsoft.com/en-us/learn/csharp
+https://www.youtube.com/watch?v=52r9qUToOD8&ab_channel=GiraffeAcademy
+https://www.youtube.com/watch?v=Z5JS36NlJiU&ab_channel=dotnet
+
+- Bob Tabors

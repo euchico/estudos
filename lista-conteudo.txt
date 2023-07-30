@@ -1,0 +1,31 @@
+Geral ===========================================
+
+Inglês
+.NET (C#)
+ASP.NET (C#)
+Git / Versionamento
+SOLID
+CLEAN Code
+Arquitetura web
+Fundamento em testes unitários;
+MVC
+
+
+Programador Jr. - C# e Angular ==================
+APIs REST
+WebForms
+Entity framework
+MVC
+SQL 
+TDD
+
+
+Programador Pleno - C# e Angular ================
+
+API design, Restful e Microservices
+Conhecimento em Cloud (AWS e Azure)
+Conhecimento banco de dados (NoSql e/ou Sql); 
+SOAP
+Conhecimento em ferramentas de qualidade de código como: OWASP, DDD, Padrão BFF;
+Teste de unitário;
+ Stack de serviços AWS (S3, EC2, SES, SNS, SQS, Lambda Functions, outros);
