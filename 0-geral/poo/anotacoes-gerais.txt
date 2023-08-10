@@ -1,0 +1,12 @@
+Os quatro pilares da POO.
+- Abstração: em OO é quando olhamos para o mundo real e identificamos determinadas "coisas" (físicas ou conceituais) e  criamos uma Classe com suas características e funções no mundo real que serão necessárias no sistema. Dessa forma, reduzindo a complexidade e impactos.
+- Encapsulamento: Ao encapsularmos um objeto estamos tornando suas propriedades acessíveis apenas através de seus métodos públicos. Desta forma tratamos de questões importantes como segurança e confiabilidade do estado do objeto.
+- Herança: Utilizando a herança, você elimina a repetição de códigos, uma vez que a Classe herda características de outra Classe, assim, não precisando reescrever essas mesmas características.
+- Polimorfismo: Quando duas ou mais classes possuem métodos com o mesmo nome, mas com implementações diferentes, chamamos de polimorfismo. Através dele, removemos códigos desnecessários.
+
+
+Importância.
+- Eficiente: Com POO, você pode ganhar tempo e tudo torna-se mais eficiente e bastante ágil.
+- Ajustável: Ao atualizar uma parte pequena, o conceito de herança garante que, automaticamente, todas as partes que utilizarem tal método sejam beneficiadas.
+- Extensível: O uso do princípio da reutilização do software permite a capacidade de estender um sistema que já existe. Assim, você não precisa reescrever todo um código.
+- Natural: Como o objetivo de POO é trazer para o mundo de programação o nosso mundo real e tornar o ponto de vista humano em algo virtual, as coisas tornam-se mais natural e o problema é focado em algo geral e não em suas particularidades.
