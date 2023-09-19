@@ -1,0 +1,3 @@
+CLR: Common Language Runtime (Virtual Machine)
+JIT: Just In Time
+MSIL: MicroSoft Intermediate Language

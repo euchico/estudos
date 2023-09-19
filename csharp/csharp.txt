@@ -1,0 +1,21 @@
+Criador: Anders Hejlsberg
+Ano de Criação: 2000
+
+O C# surgiu de uma briga judicial da Microsoft
+
+Características Essenciais
+Simplicidade: os projetistas de C# costumam dizer que essa linguagem é tão poderosa quanto o C++ e tão simples quanto o Visual Basic;
+Completamente orientada a objetos: em C#, qualquer variável tem de fazer parte de uma classe;
+Fortemente tipada: isso ajudará a evitar erros por manipulação imprópria de tipos, atribuições incorretas etc.;
+Gera código gerenciado: assim como o ambiente .NET é gerenciado, assim também é o C#;
+Tudo é um objeto: System.Object é a classe base de todo o sistema de tipos de C#;
+Controle de versões: cada assembly gerado, seja como EXE ou DLL, tem informação sobre a versão do código, permitindo a coexistência de dois assemblies homônimos, mas de versões diferentes no mesmo ambiente;
+Suporte a código legado: o C# pode interagir com código legado de objetos COM e DLL’s escritas em uma linguagem não-gerenciada;
+Flexibilidade: se o desenvolvedor precisar usar ponteiros, o C# permite, mas ao custo de desenvolver código não-gerenciado, chamado “unsafe”.
+Linguagem gerenciada: os programas desenvolvidos em C# executam num ambiente gerenciado, o que significa que todo o gerenciamento de memória é feito pelo runtime via o GC (Garbage Collector), e não diretamente pelo programador, reduzindo as chances de cometer erros comuns a linguagens de programação onde o gerenciamento da memória é feito diretamente pelo programador.
+
+
+Conteúdo
+Playlist Pessoal: https://youtube.com/playlist?list=PLi0rWr-v2Vq6rmz_BvB-S0W5-CUbREnqq&si=MN6lTbTwZNVJahzF
+
+Glossário

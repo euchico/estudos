@@ -1,0 +1,12 @@
+O .NET surgiu de uma briga judicial da Microsoft com a Sun, por uma violação o licensiamento do Java.
+
+
+Conteúdo
+
+
+Glossário
+
+CLR: Common Language Runtime (Virtual Machine)
+CIL: Common Intermediate Language
+JIT: Just In Time
+MSIL: MicroSoft Intermediate Language
