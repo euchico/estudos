@@ -1,0 +1,8 @@
+1. Escrever um arquivo com o código.
+   * Exemplo: "Hello World".
+   ** Não precisa alterar o formato do arquivo, podendo ser .txt.
+2. No terminal, acessar a pasta do arquivo.
+3. Executar o compilador de C#, csc.exe
+   > C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe arquivo.txt
+   * Será gerado o .exe na pasta.
+4. Executar o programa.
