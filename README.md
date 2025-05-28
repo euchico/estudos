@@ -1,4 +1,7 @@
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
+# euChico - Estudos
+
+![status](https://img.shields.io/badge/status-Em_Andamento-yellow)
+[![licença](https://img.shields.io/badge/licença-MIT-blue.svg)](./LICENSE)
 
 ## Contato
 ### Principal
@@ -9,5 +12,9 @@
 * **Twitter:** [@euchicodev](https://twitter.com/euchicodev)
 * **Instagram:** [@euchicodev](https://www.instagram.com/euchicodev)
 
+## Contribuição
+Contribuições são sempre bem-vindas! <br>
+Se surgir algum problema, dificuldade ou questionamento, por favor, registre uma [Issue](../../issues).
+
 ## Licença
-MIT License (MIT) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
+MIT License (c) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
