@@ -23,19 +23,25 @@
 - desenvolvedor.io - Fundamentos de C# *([Reposiório](https://github.com/euchico/dvi-fundamentos-do-csharp) | [Link](https://desenvolvedor.io/curso-online-fundamentos-do-csharp))*
 
 
-## Contato
+## 📧 Contato
 
 ### Principal
+
 * **Site:** [euchico.github.io](https://euchico.github.io)
 * **Email:** [eu.francisco@outlook.com](mailto:eu.francisco@outlook.com)
+
 ### Redes
-* **LinkedIn:** [in/euchico](https://www.linkedin.com/in/euchico)
-* **Twitter:** [@euchicodev](https://twitter.com/euchicodev)
+
+* **LinkedIn:** [/in/euchico](https://www.linkedin.com/in/euchico)
+* **Twitter/X:** [@euchicoprog](https://twitter.com/euchicoprog)
 * **Instagram:** [@euchicodev](https://www.instagram.com/euchicodev)
 
-## Contribuição
-Contribuições são sempre bem-vindas! <br>
-Se surgir algum problema, dificuldade ou questionamento, por favor, registre uma [Issue](../../issues).
+## 🤝 Contribuição
 
-## Licença
-MIT License (c) 2026 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
+Contribuições são sempre bem-vindas! <br>
+Se encontrar algum problema ou tiver sugestões, abra uma [Issue](../../issues).
+
+## ⚖️ Licença
+
+Licença MIT (c) 2026 - [Francisco de Paula](https://github.com/euchico/). <br>
+Consulte a seção [LICENSE](LICENSE) para mais detalhes.
