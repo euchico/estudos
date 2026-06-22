@@ -1,26 +1,28 @@
-# euChico - Estudos
+# Estudos - Francisco de Paula
 
 ![status](https://img.shields.io/badge/status-Em_Andamento-yellow)
 [![licença](https://img.shields.io/badge/licença-MIT-blue.svg)](./LICENSE)
 
+Repositório dedicado à organização de fontes, materiais de estudo e anotações.
+
+O objetivo é centralizar os estudos, manter as anotações organizadas e tornar o conteúdo acessível a outras pessoas com interesse nos temas abordados.
 
 ---
-### Conteúdo
 
-- [Cursos](#Cursos)
-- [Contato](#Contato)
-	- [Principal](#Principal)
-	- [Redes](#Redes)
-- [Contribuição](#Contribuição)
-- [Licença](#Licença)
+## 📑 Conteúdo
+
+- Fontes
+- Contato
+- Contribuição
+- Licença
+
 ---
 
-
-## Cursos
+## Fontes
 
 ### Em andamento
 
-- desenvolvedor.io - Fundamentos de C# *([Reposiório](https://github.com/euchico/dvi-fundamentos-do-csharp) | [Link](https://desenvolvedor.io/curso-online-fundamentos-do-csharp))*
+- Alura — Imersão CSS e HTML *([Reposiório](https://github.com/euchico/alura-imersoes) | [Link](https://cursos.alura.com.br/imersoes/aulas/aula-1-css-para-pagina-pessoal-c1))*
 
 
 ## 📧 Contato
@@ -34,7 +36,7 @@
 
 * **LinkedIn:** [/in/euchico](https://www.linkedin.com/in/euchico)
 * **Twitter/X:** [@euchicoprog](https://twitter.com/euchicoprog)
-* **Instagram:** [@euchicodev](https://www.instagram.com/euchicodev)
+* **Instagram:** [@euchicoprog](https://www.instagram.com/euchicoprog)
 
 ## 🤝 Contribuição
 
