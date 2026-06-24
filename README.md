@@ -1,4 +1,4 @@
-# Estudos - Francisco de Paula
+# Francisco de Paula - Estudos
 
 ![status](https://img.shields.io/badge/status-Em_Andamento-yellow)
 [![licença](https://img.shields.io/badge/licença-MIT-blue.svg)](./LICENSE)
@@ -12,6 +12,7 @@ O objetivo é centralizar os estudos, manter as anotações organizadas e tornar
 ## 📑 Conteúdo
 
 - Fontes
+	- Em andamento	
 - Contato
 - Contribuição
 - Licença
