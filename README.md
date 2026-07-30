@@ -23,6 +23,7 @@ O objetivo é centralizar os estudos, manter as anotações organizadas e tornar
 
 ### Em andamento
 
+- Microsoft Learn — C# *([Reposiório](https://github.com/euchico/microsoft-learn) | [Link](https://learn.microsoft.com/pt-br/training))*
 - Alura — Imersão CSS e HTML *([Reposiório](https://github.com/euchico/alura-imersoes) | [Link](https://cursos.alura.com.br/imersoes/aulas/aula-1-css-para-pagina-pessoal-c1))*
 
 
